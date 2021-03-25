@@ -1,0 +1,14 @@
+{
+	"dependencies": {
+		"eeui/picture": {
+			"requireName": "eeui/picture",
+			"name": "eeui/picture",
+			"url": "http://eeui.cdn.gmjfw.com/uploads/plugins/1/picture/15ae2517bac47d20a196fb14d48fb63b.zip"
+		},
+		"eeui/network": {
+			"requireName": "eeui/network",
+			"name": "eeui/network",
+			"url": "http://eeui.cdn.gmjfw.com/uploads/plugins/1/network/fa3f04b166c78aac3b20e45a7398e6bd.zip"
+		}
+	}
+}

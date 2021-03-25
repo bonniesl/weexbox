@@ -1,0 +1,50 @@
+{
+	"name": "eeui-template",
+	"version": "2.2.3",
+	"description": "A eeui project",
+	"eeuiclimin": "2.2.3",
+	"author": "kuaifan",
+	"private": true,
+	"scripts": {
+		"dev": "eeui dev",
+		"build": "eeui build",
+		"build-nozip": "eeui build --simple",
+		"dev-once": "eeui dev --simple"
+	},
+	"keywords": [
+		"weex",
+		"weex ui",
+		"eeui",
+		"eeui app",
+		"vue",
+		"vue app",
+		"hybird",
+		"hybird app"
+	],
+	"license": "MIT",
+	"dependencies": {
+		"vue": "^2.5.11",
+		"weex-vue-render": "^1.0.17"
+	},
+	"devDependencies": {
+		"babel-core": "^6.26.0",
+		"babel-loader": "^8.0.6",
+		"babel-preset-es2015": "^6.24.1",
+		"babel-preset-stage-0": "^6.24.1",
+		"inquirer": "^7.0.4",
+		"plist": "^3.0.1",
+		"webpack": "^4.41.6",
+		"weex-loader": "^0.7.12",
+		"weex-bindingx": "^0.0.49",
+		"weex-ui": "^0.8.4",
+		"@babel/core": "^7.8.4",
+		"@babel/plugin-transform-runtime": "^7.8.3",
+		"@babel/preset-env": "^7.8.4",
+		"@babel/preset-react": "^7.8.3",
+		"babel-plugin-component": "^1.1.1",
+		"eeui-design": "^0.0.1",
+		"webpack-cli": "^3.3.11",
+		"webpack-merge": "^4.2.2",
+		"weex-styler": "^0.3.1"
+	}
+}

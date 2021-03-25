@@ -1,0 +1,8 @@
+{
+	"ok": true,
+	"appName": "eeui演示",
+	"applicationID": "app.eeui.simple",
+	"bundleIdentifier": "app.eeui.simple",
+	"location": "github",
+	"release": "2.2.3"
+}
